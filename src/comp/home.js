@@ -8,7 +8,7 @@ import ImageMB2 from "../image/Multi-banner-2.avif";
 import ImageM3 from "../image/Multi-Banner-3.png";
 import ImageM4 from "../image/Multi-banner-4.avif";
 import ImageM5 from "../image/Multi-Banner-555.webp.png";
-import Slide1 from "../image/slide-1.webp"; // Importing the slide-1 image
+import Slide1 from "../image/slide-1.webp";
 
 import { AiFillEye, AiFillHeart, AiOutlineShoppingCart } from "react-icons/ai";
 import {

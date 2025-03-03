@@ -78,3 +78,16 @@
     background: #fed700;
     cursor: pointer;
 }
+
+/* Error Styling */
+.error {
+    color: red;
+    font-size: 14px;
+    margin-top: 5px;
+}
+
+/* Red border for invalid input fields */
+input:focus:invalid,
+textarea:focus:invalid {
+    border-color: red !important;
+}
